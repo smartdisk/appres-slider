@@ -1,0 +1,22 @@
+{
+  "name": "@appres/slider",
+  "version": "0.0.0",
+  "description": "appres slider",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slider"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartdisk/appres-slider.git"
+  },
+  "homepage": "https://appres.org",
+  "author": "APPRES.ORG",
+  "license": "Commercial",
+  "dependencies": {
+  }
+}
